@@ -4,3 +4,8 @@ npm install bootstrap
 
 
 axios 1.4.0
+
+
+npm install
+
+npm start
